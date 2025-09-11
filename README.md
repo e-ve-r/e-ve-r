@@ -1,7 +1,7 @@
 <!-- Dark Mode Fun & Creative GitHub Profile README with Custom Stats -->
 
 <div align="center">
-  <h1 style="color:#00FFD1; margin:0;">🌌 Hey, I'm Ever</h1>
+  <h1 style="color:#00FFD1; margin:0;">🌌 Hey, I'm Veer</h1>
   <p style="margin:4px 0 12px 0; font-size:16px; color:#A1A1AA;">
     🚀 CSE Student @ UPES • Full Stack Developer • Python & C Programmer
   </p>
