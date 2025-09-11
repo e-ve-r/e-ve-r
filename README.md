@@ -1,7 +1,5 @@
-<!-- Dark Mode Fun & Creative GitHub Profile README with Custom Stats -->
-
 <div align="center">
-  <h1 style="color:#00FFD1; margin:0;">🌌 Hey, I'm Veer</h1>
+  <h1 style="color:#00FFD1; margin:0;">Hey👋, I'm Veer</h1>
   <p style="margin:4px 0 12px 0; font-size:16px; color:#A1A1AA;">
     🚀 CSE Student @ UPES • Full Stack Developer • Python & C Programmer
   </p>
@@ -48,13 +46,13 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-<!-- GitHub Stats Card -->
+
 <img src="https://github-readme-stats.vercel.app/api?username=e-ve-r&show_icons=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF&icon_color=FF8800" alt="Ever's GitHub stats" height="160"/>
 
-<!-- Top Languages Card -->
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-ve-r&layout=compact&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF" alt="Top Languages" height="160"/>
 
-<!-- GitHub Streak -->
+
 <img src="https://streak-stats.demolab.com?user=e-ve-r&theme=highcontrast&ring=00FFD1&fire=FF8800&currStreakLabel=FFFFFF&background=0D1117" alt="GitHub Streak" height="160"/>
 
 </div>
