@@ -6,7 +6,7 @@
     🚀 CSE Student @ UPES • Full Stack Developer • Python & C Programmer
   </p>
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="220" style="border-radius:12px;"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQF86ooRGuIFbw/profile-displayphoto-crop_800_800/B56ZjHs6NNG0AM-/0/1755697097812?e=1760572800&v=beta&t=09_qUk3Nth3d0_GEfk0fzH5PBSpFKkn6bCQB4HVD6lk" alt="coding gif" width="220" style="border-radius:12px;"/>
 </div>
 
 ---
