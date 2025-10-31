@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Computer Science Engineering student with a passion for web development. I enjoy building clean, functional web applications and learning new technologies.
+I'm a second-year B.Tech student majoring in Computer Science and Engineering at the University of Petroleum and Energy Studies (UPES), Dehradun. I'm passionate about technology and love building applications that solve real-world problems. I specialize in full-stack web development and have hands-on experience with Python and C programming.
 
 ## Tech Stack
 
@@ -12,6 +12,10 @@ I'm a Computer Science Engineering student with a passion for web development. I
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## GitHub Stats
 
@@ -21,7 +25,7 @@ I'm a Computer Science Engineering student with a passion for web development. I
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/e-v-e-r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-v-e-r/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:19.ever.30@gmail.com)
 
 ---
