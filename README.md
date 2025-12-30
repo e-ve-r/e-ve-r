@@ -7,7 +7,7 @@ I'm a second-year B.Tech student majoring in Computer Science and Engineering at
 ---
 
 ## 🏆 GitHub Trophies
-![Veer's Trophies](https://github-profile-trophy.vercel.app/?username=e-ve-r&theme=flat&no-frame=true&margin-w=15)
+![Veer's Trophies](https://github-profile-trophy-gold.vercel.app/?username=e-ve-r&theme=flat&no-frame=true&margin-w=15)
 
 ---
 
@@ -30,7 +30,7 @@ I'm a second-year B.Tech student majoring in Computer Science and Engineering at
 
 ## 🏅 GitHub Achievements
 <p align="left">
-  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/assets/images/trophy.png" width="0" height="0"> <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" width="60" height="60" alt="Pull Shark">
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" width="60" height="60" alt="Pull Shark">
   <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" width="60" height="60" alt="Quickdraw">
   <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/yolo-default.png?raw=true" width="60" height="60" alt="YOLO">
   <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pair-extraordinaire-default.png?raw=true" width="60" height="60" alt="Pair Extraordinaire">
@@ -42,7 +42,7 @@ I'm a second-year B.Tech student majoring in Computer Science and Engineering at
 
 | Stats | Activity & Languages |
 | :--- | :--- |
-| ![Veer's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-ve-r&show_icons=true&theme=default&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-ve-r&layout=compact&theme=default&hide_border=true) |
+| ![Veer's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=e-ve-r&show_icons=true&theme=default&hide_border=true) | ![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=e-ve-r&layout=compact&theme=default&hide_border=true) |
 | ![GitHub Streak](https://streak-stats.demolab.com/?user=e-ve-r&theme=default&hide_border=true) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=e-ve-r&theme=react-dark&bg_color=00000000&hide_border=true) |
 
 ---
