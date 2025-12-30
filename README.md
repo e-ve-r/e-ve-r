@@ -7,7 +7,8 @@ I'm a second-year B.Tech student majoring in Computer Science and Engineering at
 ---
 
 ## 🏆 GitHub Trophies
-![Veer's Trophies](https://github-profile-trophy-gold.vercel.app/?username=e-ve-r&theme=flat&no-frame=true&margin-w=15)
+
+![Veer's Trophies](https://github-profile-trophy.vercel.app/?username=e-ve-r&theme=flat&no-frame=true&margin-w=15)
 
 ---
 
@@ -29,6 +30,7 @@ I'm a second-year B.Tech student majoring in Computer Science and Engineering at
 ---
 
 ## 🏅 GitHub Achievements
+
 <p align="left">
   <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" width="60" height="60" alt="Pull Shark">
   <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" width="60" height="60" alt="Quickdraw">
