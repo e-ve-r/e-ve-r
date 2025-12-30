@@ -7,16 +7,16 @@
 
 ## 💫 About Me
 
-I am a Computer Science and Engineering student at **UPES, Dehradun**, deeply invested in the intersection of scalable web architectures and intuitive mobile experiences. As I progress through my engineering journey, I've transitioned from learning syntax to architecting solutions using the **Django** and **Flutter** ecosystems.
+I am a Computer Science and Engineering student at **UPES, Dehradun**, focused on building scalable web and mobile applications using the **Django** and **Flutter** ecosystems.
 
 - 🔭 **Current Focus:** Advanced Backend Systems & Cloud Integration.
-- ⚡ **Recent Achievement:** Building real-time Q&A platforms using LLM streaming.
+- ⚡ **Recent Achievement:** Building real-time Q&A platforms with LLM streaming.
 - 🌱 **Learning:** DevOps pipelines and Kubernetes orchestration.
 
 ---
 
 ## 🏆 GitHub Trophies
-![Veer's Trophies](https://github-profile-trophy.vercel.app/?username=e-ve-r&theme=flat&no-frame=true&margin-w=15)
+![Veer's Trophies](https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=e-ve-r&theme=flat&no-frame=true&margin-w=15)
 
 ---
 
@@ -39,10 +39,10 @@ I am a Computer Science and Engineering student at **UPES, Dehradun**, deeply in
 
 ## 🏅 GitHub Achievements
 <p align="left">
-  <img src="https://github-profile-utils.herokuapp.com/achievement/pull-shark?username=e-ve-r" width="60" height="60" alt="Pull Shark">
-  <img src="https://github-profile-utils.herokuapp.com/achievement/quickdraw?username=e-ve-r" width="60" height="60" alt="Quickdraw">
-  <img src="https://github-profile-utils.herokuapp.com/achievement/yolo?username=e-ve-r" width="60" height="60" alt="YOLO">
-  <img src="https://github-profile-utils.herokuapp.com/achievement/pair-extraordinaire?username=e-ve-r" width="60" height="60" alt="Pair Extraordinaire">
+  <img src="https://githubachievements.com/images/pull-shark.png" width="60" height="60" alt="Pull Shark">
+  <img src="https://githubachievements.com/images/quickdraw.png" width="60" height="60" alt="Quickdraw">
+  <img src="https://githubachievements.com/images/yolo.png" width="60" height="60" alt="YOLO">
+  <img src="https://githubachievements.com/images/pair-extraordinaire.png" width="60" height="60" alt="Pair Extraordinaire">
 </p>
 
 ---
@@ -51,8 +51,8 @@ I am a Computer Science and Engineering student at **UPES, Dehradun**, deeply in
 
 | Stats | Activity & Languages |
 | :--- | :--- |
-| ![Veer's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-ve-r&show_icons=true&theme=transparent&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-ve-r&layout=compact&theme=transparent&hide_border=true) |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=e-ve-r&theme=transparent&hide_border=true) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=e-ve-r&theme=react-dark&bg_color=00000000&hide_border=true) |
+| ![Veer's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=e-ve-r&show_icons=true&theme=transparent&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=e-ve-r&layout=compact&theme=transparent&hide_border=true) |
+| ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=e-ve-r&theme=transparent&hide_border=true) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=e-ve-r&theme=react-dark&bg_color=00000000&hide_border=true) |
 
 ---
 
@@ -66,7 +66,3 @@ I am a Computer Science and Engineering student at **UPES, Dehradun**, deeply in
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
