@@ -8,7 +8,12 @@ I'm a second-year B.Tech student majoring in Computer Science and Engineering at
 
 ## 🏆 GitHub Trophies
 
-![Veer's Trophies](https://github-profile-trophy.vercel.app/?username=e-ve-r&theme=flat&no-frame=true&margin-w=15)
+<p align="left">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=e-ve-r&theme=flat&no-frame=true&margin-w=15&cache_seconds=86400"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ---
 
@@ -53,9 +58,9 @@ I'm a second-year B.Tech student majoring in Computer Science and Engineering at
 
 <div align="left">
   <a href="https://www.linkedin.com/in/e-v-e-r/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:19.ever.30@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
