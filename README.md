@@ -16,7 +16,7 @@ I am a Computer Science and Engineering student at **UPES, Dehradun**, focused o
 ---
 
 ## 🏆 GitHub Trophies
-![Veer's Trophies](https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=e-ve-r&theme=flat&no-frame=true&margin-w=15)
+![Veer's Trophies](https://github-profile-trophy.vercel.app/?username=e-ve-r&theme=flat&no-frame=true&margin-w=15)
 
 ---
 
@@ -39,10 +39,10 @@ I am a Computer Science and Engineering student at **UPES, Dehradun**, focused o
 
 ## 🏅 GitHub Achievements
 <p align="left">
-  <img src="https://githubachievements.com/images/pull-shark.png" width="60" height="60" alt="Pull Shark">
-  <img src="https://githubachievements.com/images/quickdraw.png" width="60" height="60" alt="Quickdraw">
-  <img src="https://githubachievements.com/images/yolo.png" width="60" height="60" alt="YOLO">
-  <img src="https://githubachievements.com/images/pair-extraordinaire.png" width="60" height="60" alt="Pair Extraordinaire">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="60" height="60" alt="Pull Shark">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="60" height="60" alt="Quickdraw">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="60" height="60" alt="YOLO">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="60" height="60" alt="Pair Extraordinaire">
 </p>
 
 ---
@@ -51,8 +51,8 @@ I am a Computer Science and Engineering student at **UPES, Dehradun**, focused o
 
 | Stats | Activity & Languages |
 | :--- | :--- |
-| ![Veer's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=e-ve-r&show_icons=true&theme=transparent&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=e-ve-r&layout=compact&theme=transparent&hide_border=true) |
-| ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=e-ve-r&theme=transparent&hide_border=true) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=e-ve-r&theme=react-dark&bg_color=00000000&hide_border=true) |
+| ![Veer's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-ve-r&show_icons=true&theme=transparent&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-ve-r&layout=compact&theme=transparent&hide_border=true) |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=e-ve-r&theme=transparent&hide_border=true) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=e-ve-r&theme=react-dark&bg_color=00000000&hide_border=true) |
 
 ---
 
