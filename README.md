@@ -1,17 +1,8 @@
 # Hi there, I'm Veer Vikram Singh 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20Undergraduate-blue?style=flat-square" alt="Degree">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Mobile-green?style=flat-square" alt="Focus">
-</p>
+## About Me
 
-## 💫 About Me
-
-I am a Computer Science and Engineering student at **UPES, Dehradun**, focused on building scalable web and mobile applications using the **Django** and **Flutter** ecosystems.
-
-- 🔭 **Current Focus:** Advanced Backend Systems & Cloud Integration.
-- ⚡ **Recent Achievement:** Building real-time Q&A platforms with LLM streaming.
-- 🌱 **Learning:** DevOps pipelines and Kubernetes orchestration.
+I'm a second-year B.Tech student majoring in Computer Science and Engineering at the University of Petroleum and Energy Studies (UPES), Dehradun. I'm passionate about technology and love building applications that solve real-world problems. I specialize in full-stack web development and have hands-on experience with Python and C programming.
 
 ---
 
@@ -39,10 +30,10 @@ I am a Computer Science and Engineering student at **UPES, Dehradun**, focused o
 
 ## 🏅 GitHub Achievements
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="60" height="60" alt="Pull Shark">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="60" height="60" alt="Quickdraw">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="60" height="60" alt="YOLO">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="60" height="60" alt="Pair Extraordinaire">
+  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/assets/images/trophy.png" width="0" height="0"> <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" width="60" height="60" alt="Pull Shark">
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" width="60" height="60" alt="Quickdraw">
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/yolo-default.png?raw=true" width="60" height="60" alt="YOLO">
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pair-extraordinaire-default.png?raw=true" width="60" height="60" alt="Pair Extraordinaire">
 </p>
 
 ---
@@ -51,8 +42,8 @@ I am a Computer Science and Engineering student at **UPES, Dehradun**, focused o
 
 | Stats | Activity & Languages |
 | :--- | :--- |
-| ![Veer's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-ve-r&show_icons=true&theme=transparent&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-ve-r&layout=compact&theme=transparent&hide_border=true) |
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=e-ve-r&theme=transparent&hide_border=true) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=e-ve-r&theme=react-dark&bg_color=00000000&hide_border=true) |
+| ![Veer's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-ve-r&show_icons=true&theme=default&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-ve-r&layout=compact&theme=default&hide_border=true) |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=e-ve-r&theme=default&hide_border=true) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=e-ve-r&theme=react-dark&bg_color=00000000&hide_border=true) |
 
 ---
 
