@@ -1,6 +1,6 @@
-# Hi there, I'm Veer Vikram Singh 🏏
+# Hi there, I'm Veer Vikram Singh 🏏🍔
 
-## 👋 About Me
+## About Me
 
 I'm a Computer Science student who loves programming and building stuff.  
 Bugs and UI/UX are the only rules I play by.
