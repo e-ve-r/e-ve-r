@@ -1,4 +1,4 @@
-# Hi there, I'm Veer Vikram Singh
+# Hi there, I'm Veer ✌️
 
 ## About Me
 
